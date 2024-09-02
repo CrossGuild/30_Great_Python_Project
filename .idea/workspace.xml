@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1752d7c8-5b6f-43c8-bc57-135d806b0104" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/30_Great_Python_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Mad Libs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_TaxCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17ChatBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_EmailScraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_CryptoCurrencyAlerter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Number_Guessing_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20PublicAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_DiceRollingSimulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.PasswordGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.QrCodeGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaxRate.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CrossGuild&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CrossGuild/30_Great_Python_Project.git&quot;,
+    &quot;accountId&quot;: &quot;ca63b803-74a3-4625-ba44-bfdf60055e2f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2l8oL20Wz0XmylUNvrTAPZbZ3Fn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.12_TaxCalculator.executor": "Run",
+    "Python.17ChatBot.executor": "Run",
+    "Python.18_EmailScraper.executor": "Run",
+    "Python.19Main.executor": "Run",
+    "Python.19_CryptoCurrencyAlerter.executor": "Run",
+    "Python.20PublicAPI.executor": "Run",
+    "Python.5.RockPaperScissors.executor": "Run",
+    "Python.6. Mad Libs.executor": "Run",
+    "Python.7.QrCodeGenerator.executor": "Run",
+    "Python.8_DiceRollingSimulator.executor": "Run",
+    "Python.9.Hangman.executor": "Run",
+    "Python.Number_Guessing_Game.executor": "Run",
+    "Python.PasswordGenerator.executor": "Run",
+    "Python.RockPaperScissors.executor": "Run",
+    "Python.TaxRate.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/cws/Desktop/IT/Python/30_Great_Python_Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
+        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1752d7c8-5b6f-43c8-bc57-135d806b0104" name="Changes" comment="" />
+      <created>1724571004410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724571004410</updated>
+      <workItem from="1724571005738" duration="15891000" />
+      <workItem from="1724667845697" duration="410000" />
+      <workItem from="1724842521021" duration="1789000" />
+      <workItem from="1724881432702" duration="1655000" />
+      <workItem from="1725013822782" duration="8837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$12_TaxCalculator.coverage" NAME="12_TaxCalculator Coverage Results" MODIFIED="1725013956187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$19Main.coverage" NAME="19Main Coverage Results" MODIFIED="1725287346193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$17ChatBot.coverage" NAME="17ChatBot Coverage Results" MODIFIED="1725233354946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$TaxRate.coverage" NAME="TaxRate Coverage Results" MODIFIED="1724842586669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$RockPaperScissors.coverage" NAME="RockPaperScissors Coverage Results" MODIFIED="1724590304846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$5_RockPaperScissors.coverage" NAME="5.RockPaperScissors Coverage Results" MODIFIED="1724667265028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$PasswordGenerator.coverage" NAME="PasswordGenerator Coverage Results" MODIFIED="1724593296051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$20PublicAPI.coverage" NAME="20PublicAPI Coverage Results" MODIFIED="1725318472667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$7_QrCodeGenerator.coverage" NAME="7.QrCodeGenerator Coverage Results" MODIFIED="1724668225667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$9_Hangman.coverage" NAME="9.Hangman Coverage Results" MODIFIED="1724587163780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$18_EmailScraper.coverage" NAME="18_EmailScraper Coverage Results" MODIFIED="1725286552813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$6__Mad_Libs.coverage" NAME="6. Mad Libs Coverage Results" MODIFIED="1724573711457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$19_CryptoCurrencyAlerter.coverage" NAME="19_CryptoCurrencyAlerter Coverage Results" MODIFIED="1725287081085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$Number_Guessing_Game.coverage" NAME="Number_Guessing_Game Coverage Results" MODIFIED="1724575711075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/30_Great_Python_Project$8_DiceRollingSimulator.coverage" NAME="8_DiceRollingSimulator Coverage Results" MODIFIED="1724577216702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
